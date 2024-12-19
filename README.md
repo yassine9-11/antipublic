@@ -1,4 +1,4 @@
-# AntiPublic Checker
+# AntiPublic
 
 A python tool for check combos if private or no
 
