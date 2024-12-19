@@ -1,9 +1,5 @@
 # AntiPublic Checker
 
-<html>
-<a href=https://python.org><img src=https://img.shields.io/badge/download_python-3670A0?style=for-the-badge&logo=python&logoColor=white></a>
-</html>
-
 A python tool for check combos if private or no
 
 <html>
