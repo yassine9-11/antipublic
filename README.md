@@ -43,7 +43,7 @@ We regularly update AntiPublic to enhance its features and performance. If you e
 ---
 
 ## 🙌 Credits
-AntiPublic is developed and maintained by Yassine. Special thanks to all contributors and supporters.
+AntiPublic is developed and maintained by Yassine9-11. Special thanks to all supporters.
 
 ---
 
