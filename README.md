@@ -1,6 +1,6 @@
 # AntiPublic
 
-A python tool for check combos if private or no
+A tool for check combos if private or no
 
 <html>
 <a href=https://github.com/yassine9-11/antipublic/releases><img src=https://img.shields.io/badge/download_AntiPublic-3670A0?style=for-the-badge></a>
