@@ -1,5 +1,6 @@
 # 🚀 AntiPublic
 
+![Repository Views](https://komarev.com/ghpvc/?username=yassine9-11&repo=antipublic)
 [![Download AntiPublic](https://img.shields.io/badge/download_AntiPublic-3670A0?style=for-the-badge)](https://github.com/yassine9-11/antipublic/releases)
 
 ---
