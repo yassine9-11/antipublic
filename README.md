@@ -1,6 +1,5 @@
 # 🚀 AntiPublic
 
-![Repository Views](https://komarev.com/ghpvc/?username=yassine9-11&repo=antipublic)
 [![Download AntiPublic](https://img.shields.io/badge/download_AntiPublic-3670A0?style=for-the-badge)](https://github.com/yassine9-11/antipublic/releases)
 
 ---
@@ -46,6 +45,7 @@ We regularly update AntiPublic to enhance its features and performance. If you e
 ## 🙌 Credits
 AntiPublic is developed and maintained by Yassine9-11. Special thanks to all supporters.
 
+![Repository Views](https://komarev.com/ghpvc/?username=yassine9-11&repo=antipublic)
 ---
 
 Thank you for using AntiPublic! If you find this tool helpful, please consider giving it a ⭐ star on GitHub.
