@@ -1,6 +1,8 @@
 # 🚀 AntiPublic
 
 [![Download AntiPublic](https://img.shields.io/badge/download_AntiPublic-3670A0?style=for-the-badge)](https://github.com/yassine9-11/antipublic/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/yassine9-11/antipublic?style=for-the-badge)](https://github.com/yassine9-11/antipublic/stargazers)
+[![Repository Views](https://img.shields.io/github/watchers/yassine9-11/antipublic?style=for-the-badge)](https://github.com/yassine9-11/antipublic/watchers)
 
 ---
 
@@ -37,15 +39,14 @@ We regularly update AntiPublic to enhance its features and performance. If you e
 ---
 
 ## 📞 Support
-- **Telegram**: [@yassine9_11](https://t.me/yassine9_11)
-- **GitHub**: [yassine9-11](https://github.com/yassine9-11)
+[![Telegram](https://img.shields.io/badge/Telegram-@yassine9_11-blue?style=for-the-badge&logo=telegram)](https://t.me/yassine9_11)
+[![GitHub](https://img.shields.io/badge/GitHub-yassine9--11-black?style=for-the-badge&logo=github)](https://github.com/yassine9-11)
 
 ---
 
 ## 🙌 Credits
 AntiPublic is developed and maintained by Yassine9-11. Special thanks to all supporters.
 
-![Repository Views](https://img.shields.io/github/watchers/yassine9-11/antipublic?style=flat)
 ---
 
 Thank you for using AntiPublic! If you find this tool helpful, please consider giving it a ⭐ star on GitHub.
