@@ -2,7 +2,7 @@
 
 [![Download AntiPublic](https://img.shields.io/badge/download_AntiPublic-3670A0?style=for-the-badge)](https://github.com/yassine9-11/antipublic/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/yassine9-11/antipublic?style=for-the-badge)](https://github.com/yassine9-11/antipublic/stargazers)
-[![Views](https://hits.sh/github.com/yassine9-11/antipublic.svg?style=for-the-badge&label=Views&extraCount=10000&color=ff69b4)](https://hits.sh/github.com/yassine9-11/antipublic/)
+[![Views](https://hits.sh/github.com/yassine9-11/antipublic.svg?style=for-the-badge&label=Views&extraCount=200&color=ff69b4)](https://hits.sh/github.com/yassine9-11/antipublic/)
 
 ---
 
