@@ -45,7 +45,7 @@ We regularly update AntiPublic to enhance its features and performance. If you e
 ## 🙌 Credits
 AntiPublic is developed and maintained by Yassine9-11. Special thanks to all supporters.
 
-![Repository Views]([https://komarev.com/ghpvc/?username=yassine9-11&repo=antipublic](https://img.shields.io/github/watchers/yassine9-11/antipublic?style=flat))
+![Repository Views](https://komarev.com/ghpvc/?username=yassine9-11&repo=antipublic](https://img.shields.io/github/watchers/yassine9-11/antipublic?style=flat)
 ---
 
 Thank you for using AntiPublic! If you find this tool helpful, please consider giving it a ⭐ star on GitHub.
