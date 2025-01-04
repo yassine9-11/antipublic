@@ -27,7 +27,7 @@
 ---
 
 ## 📥 Installation
-1. Download the latest release from the [releases page](https://github.com/yassine9-11/antipublic/releases).
+1. Download the latest version from the [releases page](https://github.com/yassine9-11/antipublic/releases).
 2. Extract .rar file.
 3. Run the `AntiPublic.exe` file to start the tool.
 
