@@ -52,4 +52,3 @@ AntiPublic is developed and maintained by Yassine9-11. Special thanks to all sup
 Thank you for using AntiPublic! If you find this tool helpful,give it a ⭐ star
 
 ![Star this repo](star_repo.gif)
-```
